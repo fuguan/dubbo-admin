@@ -1,0 +1,4 @@
+1.启动zk
+2.调整application.properties文件中zk配置与启动zk ip，端口一致
+3.启动dubbo-admin-server中DubboAdminApplication
+4.进入dubbo-admin-ui中执行npm run dev启动前端项目（需要安装配置npm）
